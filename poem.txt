@@ -14,3 +14,5 @@ And the unicorn.
 Pony rhymes with Tony
 
 Im using this edit to refernce an Issues i made. #3
+
+Im using this edit to close Issue i made. . use "fixes" in the description
